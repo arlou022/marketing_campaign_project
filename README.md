@@ -56,3 +56,8 @@ The original dataset and explanation of the variables can be found from Kaggle a
 
 
 - Began to explore campaign acceptance as a factor of education.
+
+
+## Closing
+
+Much more analysis could be carried out and many more insights can be gathered from this data set. The code quality can also be improved however the main emphasis for this project was to gather real actionable insights towards improving future campaigns.
