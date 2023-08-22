@@ -1,0 +1,5 @@
+"lower_income_range","upper_income_range","number_of_customers","total_number_of_customers","percentage_of_customers","total_number_of_cmp","total_responses","acceptance_rate"
+10000,32500,"425","2174","20","2550","79","3"
+32500,55000,"765","2174","35","4590","192","4"
+55000,77500,"711","2174","33","4266","311","7"
+77500,100000,"273","2174","13","1638","391","24"
