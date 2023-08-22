@@ -16,6 +16,8 @@ The original dataset and explanation of the variables can be found from Kaggle a
 
 ## Insights & Solutions
 
+The SQL code and the resulting tables which form these insights can be found in their respective folders.
+
 - The total marketing campaign had a -73% ROI.
 - With the current database of 2240 customers, where the cost to contact each customer is £3 and the revenue obtained from each customer accepting a campaign is £11, this means that 27% of customers are required to accept a campaign in order to break even.
 - The average acceptance rate of a campaign from this company is 7%.
