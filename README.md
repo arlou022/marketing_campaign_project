@@ -2,4 +2,10 @@
 
 ## Introduction
 
-The main goal was to use SQL queries to measure campaign performance and gather actionable insights towards improving campaign performance and increasing business profits.
+The main goal was to use SQL to query the data to measure campaign performance and gather actionable insights towards improving future campaigns and increasing business 
+profits.
+
+The project essentially consisted of:
+- efhbj
+- knfe
+- 
